@@ -1,12 +1,16 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=sow0910&fontSize=60&fontColor=white)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:f093fb&height=200&section=header&text=Sowndarya%20Sridharan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20GenAI%20Developer&descAlignY=58&descSize=18)
 
 ## 👋 Hi, I'm Sowndarya S
 
 ### 🧑 About Me
 🎓 Integrated M.Tech in Computer Science (Business Analytics) @ VIT Chennai
+
 💡 CGPA: 8.35
+
 🤖 Machine Learning, NLP & GenAI Developer focused on real-world AI solutions
+
 🚀 Passionate about Data Science, AI, and intelligent systems
+
 🏆 Smart India Hackathon 2025 — Qualified for Round 2
 
 ---
