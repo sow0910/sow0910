@@ -47,7 +47,7 @@
 ### 🚀 Projects
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [Real-Time Disaster Detection](https://github.com/sow0910/SIH-Project) | Scalable data pipeline integrating Twitter, Reddit, and RSS feeds via REST APIs with live NLP classification and real-time monitoring dashboard | Python NLP REST APIs Streamlit |
+| [Real-Time Disaster Detection](https://github.com/sow0910/Disaster-Tweet-Detection) | Scalable data pipeline integrating Twitter, Reddit, and RSS feeds via REST APIs with live NLP classification and real-time monitoring dashboard | Python NLP REST APIs Streamlit |
 
 ---
 
